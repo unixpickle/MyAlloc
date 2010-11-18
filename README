@@ -1,0 +1,6 @@
+I demonstrate how to use a simple allocator I made to allocate CoreFoundation objects.  Information on how to use this in Objective-C is still pending.  Note that the custom allocator I made uses malloc to actually allocate the heap in the beginning, but after that it uses a B-Tree to keep track of chunks that are allocated in the heap.  Also note that my allocator uses the "Buddy Allocation System", meaning that it does not always allocate exactly the amount of bytes you allocate.  
+
+Things to note
+- This demonstration creates a heap of the size 10mb (1024^2 * 10 bytes), meaning that 
+you cannot allocate LARGE objects.
+- This uses the buddy allocation system, which is not the most efficient way, but it is a simple method.
