@@ -1,0 +1,299 @@
+TMyAlloc
+v7
+r0
+t311808153.177319
+cCheck dependencies
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-aixzdnzlvipqkcglfhqontdkyipa/MyAlloc_Prefix.pch.gch MyAlloc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-bxgxpbmipzlrssfwbsifxsnqwbxc/MyAlloc_Prefix.pch.gch MyAlloc_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/MyAlloc.o /Users/alex/Desktop/MyAlloc/MyAlloc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANBuddyAlloc.o /Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANCustomAllocation.o /Users/alex/Desktop/MyAlloc/ANCustomAllocation.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc normal i386
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c
+c000000004CE5980D0000000000001169
+t1290115085
+s4457
+i"ANBuddyAlloc.h"
+
+N/Users/alex/Desktop/MyAlloc/ANBuddyAlloc.h
+c000000004CE5978C0000000000000516
+t1290114956
+s1302
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/alex/Desktop/MyAlloc/ANCustomAllocation.c
+c000000004CE599170000000000000A45
+t1290115351
+s2629
+i"ANCustomAllocation.h"
+
+N/Users/alex/Desktop/MyAlloc/ANCustomAllocation.h
+c000000004CE58B640000000000000342
+t1290111844
+s834
+i<CoreFoundation/CoreFoundation.h>
+i"ANBuddyAlloc.h"
+
+N/Users/alex/Desktop/MyAlloc/MyAlloc.m
+c000000004CE598E50000000000000229
+t1290115301
+s553
+i<Foundation/Foundation.h>
+i"ANCustomAllocation.h"
+
+N/Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch
+c000000004CE5850A000000000000009C
+t1290110218
+s156
+i<Foundation/Foundation.h>
+
+N/Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc
+t1290115353
+s21376
+
+N/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANBuddyAlloc.o
+t1290115088
+s7284
+
+N/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANCustomAllocation.o
+t1290115353
+s10272
+
+N/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/MyAlloc.LinkFileList
+c000000004CE5958E0000000000000136
+t1290114446
+s310
+
+N/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/MyAlloc.o
+t1290115304
+s7068
+
+N/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANBuddyAlloc.o
+t1290111722
+s9948
+
+N/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANCustomAllocation.o
+t1290114420
+s12536
+
+N/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/MyAlloc.LinkFileList
+c000000004CE58A4D000000000000013C
+t1290111565
+s316
+
+N/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/MyAlloc.o
+t1290112004
+s7788
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-agssjzylcaojohepufiewobplyqf/MyAlloc_Prefix.pch.gch
+t1290111567
+s41442064
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-aixzdnzlvipqkcglfhqontdkyipa/MyAlloc_Prefix.pch.gch
+t1290114454
+s43940656
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-bxgxpbmipzlrssfwbsifxsnqwbxc/MyAlloc_Prefix.pch.gch
+t1290114447
+s2187632
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-fhdjucnobslylqbsnpavdrmoxlll/MyAlloc_Prefix.pch.gch
+t1290111565
+s2195824
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311808152#311808152#0(0"0(0#1#0"8625484320#0"0#
+
+CCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANBuddyAlloc.o /Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c normal i386 c com.apple.compilers.gcc.4_2
+s311807888.535459
+e311807888.915439
+r1
+xCompileC
+xbuild/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANBuddyAlloc.o
+x/Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c311807888#311807888#0(0"0(0#0#42"/Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c8621617632#1359"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/i386 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-bxgxpbmipzlrssfwbsifxsnqwbxc/MyAlloc_Prefix.pch -c /Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c -o /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANBuddyAlloc.o0#
+
+CCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANCustomAllocation.o /Users/alex/Desktop/MyAlloc/ANCustomAllocation.c normal i386 c com.apple.compilers.gcc.4_2
+s311808152.436303
+e311808153.076904
+r1
+xCompileC
+xbuild/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANCustomAllocation.o
+x/Users/alex/Desktop/MyAlloc/ANCustomAllocation.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/alex/Desktop/MyAlloc/ANCustomAllocation.c311808152#311808153#0(0"0(0#0#48"/Users/alex/Desktop/MyAlloc/ANCustomAllocation.c8624877824#1371"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/i386 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-bxgxpbmipzlrssfwbsifxsnqwbxc/MyAlloc_Prefix.pch -c /Users/alex/Desktop/MyAlloc/ANCustomAllocation.c -o /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/ANCustomAllocation.o0#
+
+CCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/MyAlloc.o /Users/alex/Desktop/MyAlloc/MyAlloc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311808103.434367
+e311808104.705058
+r1
+xCompileC
+xbuild/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/MyAlloc.o
+x/Users/alex/Desktop/MyAlloc/MyAlloc.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alex/Desktop/MyAlloc/MyAlloc.m: In function 'main':
+o/Users/alex/Desktop/MyAlloc/MyAlloc.m:9: warning: pointer targets in passing argument 2 of 'CFStringCreateWithBytes' differ in signedness
+lSLF07#2@45"Compile /Users/alex/Desktop/MyAlloc/MyAlloc.m311808103#311808104#0(197"/Users/alex/Desktop/MyAlloc/MyAlloc.m: In function 'main':/Users/alex/Desktop/MyAlloc/MyAlloc.m:9: warning: pointer targets in passing argument 2 of 'CFStringCreateWithBytes' differ in signedness1(22@87"Pointer targets in passing argument 2 of 'CFStringCreateWithBytes' differ in signedness311808104#59#138#0(6@37"/Users/alex/Desktop/MyAlloc/MyAlloc.m311808101#9#0#9#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#37"/Users/alex/Desktop/MyAlloc/MyAlloc.m8625502112#1359"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/i386 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-aixzdnzlvipqkcglfhqontdkyipa/MyAlloc_Prefix.pch -c /Users/alex/Desktop/MyAlloc/MyAlloc.m -o /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/MyAlloc.o0#
+
+CCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANBuddyAlloc.o /Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c normal x86_64 c com.apple.compilers.gcc.4_2
+s311804522.205883
+e311804522.268091
+r1
+xCompileC
+xbuild/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANBuddyAlloc.o
+x/Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c311804522#311804522#0(0"0(0#0#42"/Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c8626317536#1365"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/x86_64 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-fhdjucnobslylqbsnpavdrmoxlll/MyAlloc_Prefix.pch -c /Users/alex/Desktop/MyAlloc/ANBuddyAlloc.c -o /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANBuddyAlloc.o0#
+
+CCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANCustomAllocation.o /Users/alex/Desktop/MyAlloc/ANCustomAllocation.c normal x86_64 c com.apple.compilers.gcc.4_2
+s311807220.321941
+e311807220.617378
+r1
+xCompileC
+xbuild/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANCustomAllocation.o
+x/Users/alex/Desktop/MyAlloc/ANCustomAllocation.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/alex/Desktop/MyAlloc/ANCustomAllocation.c311807220#311807220#0(0"0(0#0#48"/Users/alex/Desktop/MyAlloc/ANCustomAllocation.c8615445824#1377"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/x86_64 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-fhdjucnobslylqbsnpavdrmoxlll/MyAlloc_Prefix.pch -c /Users/alex/Desktop/MyAlloc/ANCustomAllocation.c -o /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANCustomAllocation.o0#
+
+CCompileC build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/MyAlloc.o /Users/alex/Desktop/MyAlloc/MyAlloc.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311804804.298110
+e311804804.625151
+r1
+xCompileC
+xbuild/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/MyAlloc.o
+x/Users/alex/Desktop/MyAlloc/MyAlloc.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alex/Desktop/MyAlloc/MyAlloc.m: In function 'main':
+o/Users/alex/Desktop/MyAlloc/MyAlloc.m:8: warning: pointer targets in passing argument 2 of 'CFStringCreateWithBytes' differ in signedness
+lSLF07#2@45"Compile /Users/alex/Desktop/MyAlloc/MyAlloc.m311804804#311804804#0(197"/Users/alex/Desktop/MyAlloc/MyAlloc.m: In function 'main':/Users/alex/Desktop/MyAlloc/MyAlloc.m:8: warning: pointer targets in passing argument 2 of 'CFStringCreateWithBytes' differ in signedness1(22@87"Pointer targets in passing argument 2 of 'CFStringCreateWithBytes' differ in signedness311804804#59#138#0(6@37"/Users/alex/Desktop/MyAlloc/MyAlloc.m311804804#8#0#8#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#37"/Users/alex/Desktop/MyAlloc/MyAlloc.m8620256512#1365"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/x86_64 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-agssjzylcaojohepufiewobplyqf/MyAlloc_Prefix.pch -c /Users/alex/Desktop/MyAlloc/MyAlloc.m -o /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/MyAlloc.o0#
+
+CLd /Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc normal i386
+s311808153.077019
+e311808153.177249
+r1
+xLd
+x/Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc
+xnormal
+xi386
+lSLF07#2@52"Link /Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc311808153#311808153#0(0"0(0#0#0"8615489856#491"    cd /Users/alex/Desktop/MyAlloc    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -L/Users/alex/Desktop/MyAlloc/build/Debug -F/Users/alex/Desktop/MyAlloc/build/Debug -filelist /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/i386/MyAlloc.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc0#
+
+CLd /Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc normal x86_64
+s311807220.617564
+e311807220.651111
+r1
+xLd
+x/Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc
+xnormal
+xx86_64
+lSLF07#2@52"Link /Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc311807220#311807220#0(0"0(0#0#0"8625885664#495"    cd /Users/alex/Desktop/MyAlloc    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -L/Users/alex/Desktop/MyAlloc/build/Debug -F/Users/alex/Desktop/MyAlloc/build/Debug -filelist /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/MyAlloc.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-agssjzylcaojohepufiewobplyqf/MyAlloc_Prefix.pch.gch MyAlloc_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311804365.066615
+e311804367.775775
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-agssjzylcaojohepufiewobplyqf/MyAlloc_Prefix.pch.gch
+xMyAlloc_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MyAlloc_Prefix.pch311804365#311804367#0(0"0(0#0#46"/Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch8237188599136414720#1276"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/x86_64 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -c /Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-agssjzylcaojohepufiewobplyqf/MyAlloc_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-aixzdnzlvipqkcglfhqontdkyipa/MyAlloc_Prefix.pch.gch MyAlloc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311807246.990285
+e311807254.072109
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-aixzdnzlvipqkcglfhqontdkyipa/MyAlloc_Prefix.pch.gch
+xMyAlloc_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MyAlloc_Prefix.pch311807246#311807254#0(0"0(0#0#46"/Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch8618491712#1272"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/i386 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -c /Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-aixzdnzlvipqkcglfhqontdkyipa/MyAlloc_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-bxgxpbmipzlrssfwbsifxsnqwbxc/MyAlloc_Prefix.pch.gch MyAlloc_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s311807246.992558
+e311807247.389981
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-bxgxpbmipzlrssfwbsifxsnqwbxc/MyAlloc_Prefix.pch.gch
+xMyAlloc_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MyAlloc_Prefix.pch311807246#311807247#0(0"0(0#0#46"/Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch8602819456#1262"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/i386 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -c /Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-bxgxpbmipzlrssfwbsifxsnqwbxc/MyAlloc_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-fhdjucnobslylqbsnpavdrmoxlll/MyAlloc_Prefix.pch.gch MyAlloc_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s311804365.082604
+e311804365.345636
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-fhdjucnobslylqbsnpavdrmoxlll/MyAlloc_Prefix.pch.gch
+xMyAlloc_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MyAlloc_Prefix.pch311804365#311804365#0(0"0(0#0#46"/Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch8628960928#1266"    cd /Users/alex/Desktop/MyAlloc    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-generated-files.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-own-target-headers.hmap -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-all-target-headers.hmap -iquote /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/MyAlloc-project-headers.hmap -F/Users/alex/Desktop/MyAlloc/build/Debug -I/Users/alex/Desktop/MyAlloc/build/Debug/include -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources/x86_64 -I/Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/DerivedSources -c /Users/alex/Desktop/MyAlloc/MyAlloc_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-fhdjucnobslylqbsnpavdrmoxlll/MyAlloc_Prefix.pch.gch0#
+

@@ -1,0 +1,6 @@
+785d494d4012bb193b423393e7f86916 b79409f35b7ff33cc8cbbbfd546bca76 ffffffffffffffffffffffffffffffff 0 /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANCustomAllocation.o
+7b04ddc6e85612c5d7f82530ad415696 674f19cf5ac2b18694082e64c45f076f ffffffffffffffffffffffffffffffff 6724 /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/MyAlloc.o
+0000000000c62f0e000000000000137a 7b04ddc6e8561d83d7f82530ad4156bd ffffffffffffffffffffffffffffffff 41442064 /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-agssjzylcaojohepufiewobplyqf/MyAlloc_Prefix.pch.gch
+785d494d40d4a0b33b423393e7f87a4c dbbcb2a500cc70edaa4bc5ebab5b883f ffffffffffffffffffffffffffffffff 9992 /Users/alex/Desktop/MyAlloc/build/MyAlloc.build/Debug/MyAlloc.build/Objects-normal/x86_64/ANBuddyAlloc.o
+0000000000c62f0e000000000000137a 785d494d0bafa34f3b423393e7f806be ffffffffffffffffffffffffffffffff 2195824 /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAlloc_Prefix-fhdjucnobslylqbsnpavdrmoxlll/MyAlloc_Prefix.pch.gch
+ffffffffffffffffffffffffffffffff 49beccdd848d493a2bbccf43f960801d ffffffffffffffffffffffffffffffff 0 /Users/alex/Desktop/MyAlloc/build/Debug/MyAlloc
